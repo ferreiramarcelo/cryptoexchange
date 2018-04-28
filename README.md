@@ -1,6 +1,6 @@
 # crypto exchange
 
-A open source, multi-currency support, 7x24 crypto exchange.
+An open source, multi-currency support, 7x24 crypto exchange.
 
 Features:
 
@@ -15,5 +15,6 @@ Features:
 - Real-time financial audit and detect any database compromise on time.
 - HD wallet integration.
 - Seperated hot-wallet and cold-wallet with high security.
+- Build-in support for BTC, BCH, ETH, ETC, ERC20, QTUM, QRC20, etc.
 
 Please contact @michaelliao for commercial version.
