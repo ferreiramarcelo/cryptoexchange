@@ -23,7 +23,7 @@
 
 		<bouncycastle.version>1.68</bouncycastle.version>
 	
-	<lanterna.version>3.1.0</lanterna.version>
+	<lanterna.version>3.1.1</lanterna.version>
 
 		<swagger2.version>2.7.0</swagger2.version>
 
