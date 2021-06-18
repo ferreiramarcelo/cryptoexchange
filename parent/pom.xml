@@ -25,7 +25,7 @@
 	
 	<lanterna.version>3.1.0</lanterna.version>
 
-		<swagger2.version>2.7.0</swagger2.version>
+		<swagger2.version>2.10.0</swagger2.version>
 
 		<warpdb.version>2.9</warpdb.version>
 	</properties>
