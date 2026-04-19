@@ -3,7 +3,9 @@ spring:
   datasource:
     url: jdbc:mysql://localhost/exchange?useSSL=false
     username: root
-    password: password
+    password:
+    initialize: true
+    schema: classpath*:/schema.sql
     hikari:
       pool-name: HikariCP
       auto-commit: false
