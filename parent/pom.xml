@@ -27,7 +27,7 @@
 
 		<swagger2.version>2.7.0</swagger2.version>
 
-		<warpdb.version>2.9</warpdb.version>
+		<warpdb.version>5.0.0</warpdb.version>
 	</properties>
 
 	<dependencies>
